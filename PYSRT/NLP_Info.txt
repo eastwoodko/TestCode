@@ -9,3 +9,18 @@ https://github.com/nlpinaction/learning-nlp
 https://github.com/DSKSD/DeepNLP-models-Pytorch
 https://github.com/stanfordnlp/stanfordnlp
 https://github.com/astorfi/Deep-Learning-NLP
+
+
+
+
+
+
+
+
+
+##
+git clone https://github.com/eastwoodko/TestCode.git
+
+git add .
+git commit -m 'subscript referrence'
+git push origin master
