@@ -1,0 +1,11 @@
+https://github.com/oxford-cs-deepnlp-2017/lectures
+https://github.com/sebastianruder/NLP-progress
+https://github.com/graykode/nlp-tutorial
+https://github.com/Kyubyong/nlp_tasks
+https://github.com/andrewt3000/DL4NLP
+https://github.com/salesforce/decaNLP
+https://github.com/NervanaSystems/nlp-architect
+https://github.com/nlpinaction/learning-nlp
+https://github.com/DSKSD/DeepNLP-models-Pytorch
+https://github.com/stanfordnlp/stanfordnlp
+https://github.com/astorfi/Deep-Learning-NLP

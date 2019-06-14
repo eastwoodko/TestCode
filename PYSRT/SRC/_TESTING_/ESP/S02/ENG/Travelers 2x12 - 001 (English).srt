@@ -1,0 +1,3316 @@
+1
+00:00:00,001 --> 00:00:01,431
+Previously, on Travelers...
+
+2
+00:00:01,433 --> 00:00:03,348
+The Director gave me a new mission.
+
+3
+00:00:03,373 --> 00:00:05,808
+We're going to make you
+whole again, Simon.
+
+4
+00:00:05,810 --> 00:00:06,888
+One of the first things that Simon did
+
+5
+00:00:06,890 --> 00:00:07,875
+when he arrived
+
+6
+00:00:07,877 --> 00:00:09,871
+was create a whole new physical layer.
+
+7
+00:00:09,873 --> 00:00:11,413
+Our back channel on the deep web.
+
+8
+00:00:11,415 --> 00:00:12,314
+He's watching you.
+
+9
+00:00:12,316 --> 00:00:13,648
+Simon, what are you doing here?
+
+10
+00:00:13,650 --> 00:00:16,425
+I helped build the first one
+in the future, too.
+
+11
+00:00:16,427 --> 00:00:17,745
+We're aware of your phone call.
+
+12
+00:00:17,747 --> 00:00:19,454
+We want you to keep that appointment.
+
+13
+00:00:19,456 --> 00:00:20,588
+All you need to do is lead us there,
+
+14
+00:00:20,590 --> 00:00:21,648
+and we'll do the rest.
+
+15
+00:00:21,650 --> 00:00:22,788
+This is a message
+
+16
+00:00:22,790 --> 00:00:24,565
+for Agent Grant MacLaren.
+
+17
+00:00:24,567 --> 00:00:26,761
+He must come alone and on time,
+
+18
+00:00:26,763 --> 00:00:29,563
+or I will never be heard from again.
+
+19
+00:00:30,599 --> 00:00:32,466
+Seven months ago,
+
+20
+00:00:32,850 --> 00:00:35,786
+my consciousness was sent
+from the distant future
+
+21
+00:00:35,787 --> 00:00:38,286
+into the body of Special
+Agent Grant MacLaren
+
+22
+00:00:38,288 --> 00:00:41,122
+moments before he would,
+historically, have died
+
+23
+00:00:41,124 --> 00:00:42,526
+in the line of duty.
+
+24
+00:00:43,277 --> 00:00:46,697
+Since then, I have assumed
+his life, his work...
+
+25
+00:00:47,330 --> 00:00:48,949
+his marriage...
+
+26
+00:00:50,067 --> 00:00:53,162
+pretending to be a man
+very different than myself.
+
+27
+00:00:54,304 --> 00:00:57,838
+In truth, I am Traveler 3468,
+
+28
+00:00:57,840 --> 00:00:59,874
+one of thousands of Travelers
+around the world
+
+29
+00:00:59,876 --> 00:01:03,380
+who have come from a time
+when life is all but wiped out,
+
+30
+00:01:04,146 --> 00:01:06,313
+to save humanity,
+
+31
+00:01:06,315 --> 00:01:08,677
+to change the path.
+
+32
+00:01:09,819 --> 00:01:11,763
+I know how that must sound,
+
+33
+00:01:12,555 --> 00:01:14,725
+especially to you, Kat...
+
+34
+00:01:16,325 --> 00:01:18,145
+but it's true.
+
+35
+00:01:29,722 --> 00:01:37,812
+Synced & corrected by -robtor-
+www.addic7ed.com
+
+36
+00:02:55,588 --> 00:02:57,321
+Good afternoon, Agent MacLaren.
+
+37
+00:02:57,323 --> 00:02:58,722
+Where is she?
+
+38
+00:02:58,724 --> 00:03:00,591
+Perrow? She's safe.
+
+39
+00:03:00,914 --> 00:03:03,227
+Though her neck might be a little tender
+
+40
+00:03:03,229 --> 00:03:05,762
+after having to remove the com
+she allowed you to plant.
+
+41
+00:03:05,764 --> 00:03:07,030
+Let her go, Ingram.
+
+42
+00:03:07,032 --> 00:03:08,098
+Of course.
+
+43
+00:03:08,100 --> 00:03:09,766
+Soon as we put this to an end.
+
+44
+00:03:09,768 --> 00:03:11,967
+I'd like to propose a truce.
+
+45
+00:03:12,604 --> 00:03:13,912
+You kidnapped
+
+46
+00:03:13,914 --> 00:03:15,739
+and tortured my team,
+
+47
+00:03:15,741 --> 00:03:17,440
+killed Travelers all over the world.
+
+48
+00:03:17,442 --> 00:03:19,309
+I needed to know if
+the Director was still after me,
+
+49
+00:03:19,311 --> 00:03:21,511
+and that suspicion was confirmed.
+
+50
+00:03:21,810 --> 00:03:23,279
+My mission was to die
+
+51
+00:03:23,281 --> 00:03:25,248
+immediately after my arrival.
+
+52
+00:03:25,250 --> 00:03:26,282
+By surviving,
+
+53
+00:03:26,284 --> 00:03:28,018
+I committed a crime
+against the Grand Plan
+
+54
+00:03:28,020 --> 00:03:29,952
+and was condemned to death.
+
+55
+00:03:29,954 --> 00:03:30,786
+Is that fair?
+
+56
+00:03:30,788 --> 00:03:32,021
+Not up to me.
+
+57
+00:03:32,023 --> 00:03:33,189
+No.
+
+58
+00:03:33,191 --> 00:03:35,091
+No, it's up to the Director,
+
+59
+00:03:35,699 --> 00:03:37,660
+who has no understanding,
+
+60
+00:03:37,662 --> 00:03:39,229
+no forgiveness,
+
+61
+00:03:39,745 --> 00:03:40,830
+no soul,
+
+62
+00:03:40,832 --> 00:03:43,466
+because it is a machine.
+
+63
+00:03:43,468 --> 00:03:44,967
+I am tired of running.
+
+64
+00:03:44,969 --> 00:03:47,036
+Take a selfie, you can end it right now.
+
+65
+00:03:47,038 --> 00:03:48,437
+To me, the digital age
+
+66
+00:03:48,439 --> 00:03:50,472
+has created a prison around me,
+
+67
+00:03:50,474 --> 00:03:52,307
+one that's been...
+
+68
+00:03:52,309 --> 00:03:54,143
+shrinking over time.
+
+69
+00:03:54,145 --> 00:03:56,278
+It's no way for my son to grow up.
+
+70
+00:03:56,280 --> 00:03:58,003
+Are you trying to get sympathy from me?
+
+71
+00:03:58,005 --> 00:03:59,548
+No. No.
+
+72
+00:03:59,550 --> 00:04:01,983
+No, I want your word
+that you'll leave me alone
+
+73
+00:04:01,985 --> 00:04:04,919
+while I prepare my affairs
+and face my accuser.
+
+74
+00:04:04,921 --> 00:04:06,054
+That's not going to go well for you.
+
+75
+00:04:06,056 --> 00:04:07,155
+I have no illusions.
+
+76
+00:04:07,157 --> 00:04:09,291
+I know exactly what's going to happen.
+
+77
+00:04:09,293 --> 00:04:10,759
+I stole 16 years
+
+78
+00:04:10,761 --> 00:04:12,561
+that I wouldn't otherwise have had,
+
+79
+00:04:12,563 --> 00:04:16,239
+and in that time,
+I created a precious life.
+
+80
+00:04:17,032 --> 00:04:21,035
+My son shouldn't have to pay
+for the mistakes of his father.
+
+81
+00:04:25,165 --> 00:04:26,507
+Do I have your word?
+
+82
+00:04:27,125 --> 00:04:29,310
+You don't have my anything.
+
+83
+00:04:30,713 --> 00:04:32,747
+That's not actually true.
+
+84
+00:04:34,984 --> 00:04:36,917
+Grant, please help me!
+
+85
+00:04:36,919 --> 00:04:38,178
+You son of a...
+
+86
+00:04:42,458 --> 00:04:44,191
+If you freaking hurt her...
+
+87
+00:04:44,193 --> 00:04:45,859
+3468,
+
+88
+00:04:46,436 --> 00:04:48,061
+if you want to see your wife again,
+
+89
+00:04:48,063 --> 00:04:50,230
+follow this simple instruction...
+
+90
+00:04:50,232 --> 00:04:52,099
+Stay out of my way.
+
+91
+00:05:14,790 --> 00:05:16,222
+He showed me a video.
+
+92
+00:05:16,224 --> 00:05:17,590
+She's being held somewhere.
+
+93
+00:05:17,592 --> 00:05:18,758
+Is she hurt?
+
+94
+00:05:18,760 --> 00:05:19,814
+I don't know, I couldn't tell.
+
+95
+00:05:19,816 --> 00:05:21,528
+Boss, he's faked things like this before.
+
+96
+00:05:21,530 --> 00:05:22,995
+Are you sure it was Kathryn?
+
+97
+00:05:22,997 --> 00:05:24,697
+Yes, and her phone
+goes straight to voicemail.
+
+98
+00:05:24,699 --> 00:05:25,664
+What does he want?
+
+99
+00:05:25,666 --> 00:05:27,266
+- A truce.
+-  Bullshit.
+
+100
+00:05:27,268 --> 00:05:28,968
+He said he's going
+to show himself to the Director
+
+101
+00:05:28,970 --> 00:05:30,102
+and face punishment,
+
+102
+00:05:30,104 --> 00:05:31,304
+but he wants us all to stand down
+
+103
+00:05:31,306 --> 00:05:33,339
+so he can make arrangements for his son.
+
+104
+00:05:33,341 --> 00:05:34,773
+Kat is his insurance.
+
+105
+00:05:35,381 --> 00:05:37,409
+He spent all this time
+hiding and torturing Travelers,
+
+106
+00:05:37,411 --> 00:05:38,644
+only to turn himself in?
+
+107
+00:05:38,646 --> 00:05:39,979
+I don't buy it either.
+
+108
+00:05:39,981 --> 00:05:41,913
+Right now I just want Kat to be safe.
+
+109
+00:05:41,915 --> 00:05:43,615
+Philip, can you trace her phone's GPS?
+
+110
+00:05:43,617 --> 00:05:44,650
+I can try.
+
+111
+00:05:44,652 --> 00:05:45,818
+I don't think he can monitor our coms,
+
+112
+00:05:45,820 --> 00:05:47,319
+but let's be careful.
+
+113
+00:05:47,321 --> 00:05:49,287
+If he finds out we're looking for her...
+
+114
+00:05:49,289 --> 00:05:50,389
+What about Perrow?
+
+115
+00:05:50,391 --> 00:05:51,457
+He claims she's still alive,
+
+116
+00:05:51,459 --> 00:05:52,991
+but you should all check
+on your loved ones
+
+117
+00:05:52,993 --> 00:05:54,259
+and make sure they're okay.
+
+118
+00:05:54,261 --> 00:05:55,927
+I'm going to Kat's place.
+
+119
+00:06:04,671 --> 00:06:05,971
+David's not answering.
+
+120
+00:06:05,973 --> 00:06:07,772
+Neither is Jeff.
+
+121
+00:06:07,774 --> 00:06:08,773
+Gary, hey!
+
+122
+00:06:09,344 --> 00:06:10,641
+I'm just checkin' in. How is everything?
+
+123
+00:06:11,511 --> 00:06:12,944
+Okay, let's go.
+
+124
+00:06:12,946 --> 00:06:14,545
+Mom's good, too?
+
+125
+00:06:14,547 --> 00:06:16,146
+No, I won't be home for dinner,
+
+126
+00:06:16,148 --> 00:06:17,147
+and I gotta run,
+
+127
+00:06:17,149 --> 00:06:18,916
+but you guys have a good day.
+
+128
+00:06:47,012 --> 00:06:47,878
+Please!
+
+129
+00:06:51,517 --> 00:06:53,646
+I'm sorry for having
+treated you this way,
+
+130
+00:06:53,648 --> 00:06:55,385
+but we needed to remove the device
+
+131
+00:06:55,387 --> 00:06:57,454
+as quickly as possible.
+
+132
+00:06:57,456 --> 00:06:59,022
+Where's my daughter?
+
+133
+00:06:59,024 --> 00:07:00,278
+Home.
+
+134
+00:07:01,326 --> 00:07:03,092
+I don't believe you.
+
+135
+00:07:03,962 --> 00:07:06,495
+There's someone
+supervising her as we speak.
+
+136
+00:07:07,358 --> 00:07:08,631
+Hello?
+
+137
+00:07:08,633 --> 00:07:09,913
+Ava!
+
+138
+00:07:10,701 --> 00:07:12,068
+Sweetie, are you hurt?
+
+139
+00:07:12,070 --> 00:07:13,436
+No.
+
+140
+00:07:13,438 --> 00:07:15,204
+There's a man here.
+
+141
+00:07:15,206 --> 00:07:16,872
+Are you coming home?
+
+142
+00:07:16,874 --> 00:07:19,175
+Soon, very soon.
+
+143
+00:07:19,177 --> 00:07:20,215
+Where are you? You said you were...
+
+144
+00:07:21,512 --> 00:07:22,511
+I promise you,
+
+145
+00:07:22,513 --> 00:07:23,979
+Ava is going to see her mother shortly.
+
+146
+00:07:30,588 --> 00:07:34,089
+There's just one more thing
+I need you to do.
+
+147
+00:07:45,869 --> 00:07:47,902
+David?
+
+148
+00:08:06,055 --> 00:08:08,356
+Guys, David's gone.
+
+149
+00:08:08,358 --> 00:08:10,424
+So are Jeff and the baby.
+
+150
+00:08:10,426 --> 00:08:12,460
+Marcy, the place is destroyed.
+
+151
+00:08:14,263 --> 00:08:16,063
+What do we do?
+
+152
+00:09:24,831 --> 00:09:26,965
+Never thought my day
+would start this way.
+
+153
+00:09:26,967 --> 00:09:29,268
+You really want to mount
+an inter-agency investigation
+
+154
+00:09:29,270 --> 00:09:30,302
+into Vincent Ingram?
+
+155
+00:09:30,304 --> 00:09:31,303
+You're wasting time.
+
+156
+00:09:31,305 --> 00:09:32,571
+Mac, think this through.
+
+157
+00:09:32,573 --> 00:09:33,705
+He has them captive.
+
+158
+00:09:33,707 --> 00:09:35,707
+And he warned you things could get worse.
+
+159
+00:09:36,337 --> 00:09:37,809
+The man said he was going
+to give himself up
+
+160
+00:09:37,811 --> 00:09:39,250
+to the Director,
+let's just wait this out...
+
+161
+00:09:39,252 --> 00:09:40,402
+And you believe him?
+
+162
+00:09:40,404 --> 00:09:42,113
+- Why would he go to the trouble of...
+- He's psychotic!
+
+163
+00:09:42,982 --> 00:09:44,683
+He's spent years hunting Traveler teams,
+
+164
+00:09:44,685 --> 00:09:45,984
+mine included.
+
+165
+00:09:46,403 --> 00:09:48,618
+They'd be dead if I hadn't used
+NSA resources...
+
+166
+00:09:48,620 --> 00:09:50,788
+Which is one of the reasons
+why they're onto us.
+
+167
+00:09:50,790 --> 00:09:52,890
+What are you talking about?
+
+168
+00:09:52,892 --> 00:09:55,659
+A few weeks ago, I saw a report.
+
+169
+00:09:56,201 --> 00:09:58,028
+DOD, Homeland Security,
+
+170
+00:09:58,030 --> 00:09:59,830
+CIA, the NSA...
+
+171
+00:09:59,832 --> 00:10:01,341
+It wasn't just my host task force
+
+172
+00:10:01,343 --> 00:10:02,400
+that was suspicious.
+
+173
+00:10:02,402 --> 00:10:04,868
+We've been discovered across
+all the intelligence services.
+
+174
+00:10:04,870 --> 00:10:07,170
+Probably worldwide.
+
+175
+00:10:07,757 --> 00:10:08,839
+Jesus.
+
+176
+00:10:08,841 --> 00:10:10,774
+They think we're some new
+terrorist organization.
+
+177
+00:10:11,469 --> 00:10:13,510
+Cells in over a hundred countries.
+
+178
+00:10:13,512 --> 00:10:16,141
+They haven't acted because
+they're scared as shit.
+
+179
+00:10:17,516 --> 00:10:19,583
+Our people at the NSA
+and Homeland Security
+
+180
+00:10:19,585 --> 00:10:21,451
+are concealing us as best they can,
+
+181
+00:10:21,453 --> 00:10:22,484
+but at this point,
+
+182
+00:10:22,486 --> 00:10:24,754
+it's only a matter of time
+before there are leaks.
+
+183
+00:10:24,756 --> 00:10:28,425
+Going after Ingram would raise
+a red flag we can't afford.
+
+184
+00:10:28,862 --> 00:10:30,026
+Boss, I managed to unlock
+
+185
+00:10:30,028 --> 00:10:31,561
+multiple locations from their phones.
+
+186
+00:10:32,005 --> 00:10:34,498
+The last one recorded
+was 3:28 p.m. yesterday,
+
+187
+00:10:34,500 --> 00:10:36,099
+all from the same place.
+
+188
+00:10:36,828 --> 00:10:37,867
+Send me the address.
+
+189
+00:10:37,869 --> 00:10:38,935
+Keep your eye on the back channels.
+
+190
+00:10:38,937 --> 00:10:39,836
+The rest of you, meet me there.
+
+191
+00:10:39,838 --> 00:10:40,703
+Mac!
+
+192
+00:10:45,044 --> 00:10:46,379
+Hello, Kathryn.
+
+193
+00:11:18,575 --> 00:11:20,575
+My name is Katrina Perrow.
+
+194
+00:11:21,096 --> 00:11:22,346
+I'm a psychologist.
+
+195
+00:11:22,348 --> 00:11:23,478
+Where am I?
+
+196
+00:11:23,480 --> 00:11:25,613
+I'm not permitted to tell you that.
+
+197
+00:11:35,825 --> 00:11:37,825
+Why are we here?
+
+198
+00:11:41,851 --> 00:11:45,099
+There are questions
+I'm supposed to ask you,
+
+199
+00:11:45,605 --> 00:11:46,633
+but I want you to know
+
+200
+00:11:46,635 --> 00:11:50,171
+that I am also doing this
+against my will.
+
+201
+00:11:53,482 --> 00:11:55,149
+They've taken my daughter, Ava.
+
+202
+00:11:57,146 --> 00:11:59,847
+Now, if we just work together
+
+203
+00:11:59,849 --> 00:12:01,881
+and do what they want,
+
+204
+00:12:01,883 --> 00:12:03,331
+they'll let us all go.
+
+205
+00:12:04,582 --> 00:12:06,167
+Can we do that?
+
+206
+00:12:17,432 --> 00:12:20,431
+When did you first notice
+changes in your husband?
+
+207
+00:12:25,436 --> 00:12:27,976
+It's all been for the greater good.
+
+208
+00:12:29,130 --> 00:12:31,430
+The lives lost when Van Huizen exploded
+
+209
+00:12:31,432 --> 00:12:33,699
+ensured the survival of millions
+
+210
+00:12:33,701 --> 00:12:36,402
+who would have died
+just over a year from now.
+
+211
+00:12:36,404 --> 00:12:37,870
+Millions of people
+
+212
+00:12:37,872 --> 00:12:40,238
+who have no idea
+how close they came to the end,
+
+213
+00:12:40,240 --> 00:12:42,870
+and they were saved by Travelers.
+
+214
+00:12:43,443 --> 00:12:45,331
+That's what we do.
+
+215
+00:12:46,280 --> 00:12:48,047
+Carly Shannon historically died
+
+216
+00:12:48,049 --> 00:12:51,587
+at the hand of her drunk,
+abusive boyfriend.
+
+217
+00:12:52,352 --> 00:12:53,451
+And now,
+
+218
+00:12:53,453 --> 00:12:54,653
+instead of her child being raised
+
+219
+00:12:54,655 --> 00:12:56,087
+by a dead-beat father,
+
+220
+00:12:56,089 --> 00:12:58,094
+he is surrounded by love.
+
+221
+00:12:59,092 --> 00:13:00,722
+My love.
+
+222
+00:13:02,329 --> 00:13:06,588
+Jeffrey Conniker Jr.
+will grow up to be a good man,
+
+223
+00:13:06,613 --> 00:13:08,313
+and millions of people around the world
+
+224
+00:13:08,338 --> 00:13:10,738
+won't suffer from the Helios catastrophe.
+
+225
+00:13:10,763 --> 00:13:12,029
+So do you know what I have to say
+
+226
+00:13:12,054 --> 00:13:13,323
+about coming here,
+
+227
+00:13:14,203 --> 00:13:17,196
+and taking this body, and doing our work?
+
+228
+00:13:18,675 --> 00:13:19,774
+You're welcome.
+
+229
+00:13:38,861 --> 00:13:40,394
+Shit.
+
+230
+00:13:43,198 --> 00:13:45,058
+That's Grace's phone.
+
+231
+00:13:49,907 --> 00:13:51,907
+_
+
+232
+00:14:04,202 --> 00:14:05,870
+Simon...
+
+233
+00:14:06,321 --> 00:14:08,455
+you said it wouldn't take long.
+
+234
+00:14:08,457 --> 00:14:10,990
+Yeah, but that's before
+the interface overheated,
+
+235
+00:14:10,992 --> 00:14:12,492
+and yeah, I knew you were there,
+
+236
+00:14:12,494 --> 00:14:14,094
+you didn't sneak up on me.
+
+237
+00:14:15,497 --> 00:14:16,729
+There isn't much time.
+
+238
+00:14:17,799 --> 00:14:20,032
+I know. I have a clock in my head.
+
+239
+00:14:22,870 --> 00:14:23,970
+I need more coolant.
+
+240
+00:14:23,972 --> 00:14:25,705
+Did you bring it?
+
+241
+00:14:25,707 --> 00:14:28,407
+Everything you need is in this room.
+
+242
+00:14:28,409 --> 00:14:31,043
+Remember we're doing this for you.
+
+243
+00:14:31,045 --> 00:14:33,145
+You said "multiple uses."
+
+244
+00:14:33,147 --> 00:14:34,480
+Multiple transfers.
+
+245
+00:14:34,482 --> 00:14:35,647
+Yes,
+
+246
+00:14:35,649 --> 00:14:38,049
+and then we'll take care of you.
+
+247
+00:14:45,910 --> 00:14:47,328
+David?
+
+248
+00:14:48,061 --> 00:14:49,628
+David.
+
+249
+00:14:52,899 --> 00:14:54,752
+Sorry, I'm just...
+
+250
+00:14:56,087 --> 00:14:58,214
+never been kidnapped before.
+
+251
+00:15:00,073 --> 00:15:01,873
+I've been held hostage,
+but that's a whole...
+
+252
+00:15:01,875 --> 00:15:03,842
+Please, just...
+
+253
+00:15:03,844 --> 00:15:05,443
+answer the question.
+
+254
+00:15:05,445 --> 00:15:06,511
+Uh, yeah.
+
+255
+00:15:07,880 --> 00:15:09,079
+I am,
+
+256
+00:15:09,081 --> 00:15:11,015
+was, her social worker.
+
+257
+00:15:11,017 --> 00:15:13,020
+How do you know about Marcy?
+
+258
+00:15:14,439 --> 00:15:16,554
+Where is she?
+
+259
+00:15:16,556 --> 00:15:17,733
+She's safe.
+
+260
+00:15:19,392 --> 00:15:20,724
+As in...
+
+261
+00:15:20,726 --> 00:15:22,126
+safely captured,
+
+262
+00:15:22,128 --> 00:15:23,823
+or safe at home?
+
+263
+00:15:24,130 --> 00:15:25,362
+They didn't take her.
+
+264
+00:15:25,364 --> 00:15:26,263
+"They"?
+
+265
+00:15:26,265 --> 00:15:28,699
+The same people who took my daughter.
+
+266
+00:15:28,701 --> 00:15:30,167
+I...
+
+267
+00:15:30,169 --> 00:15:31,702
+That's terrible, I'm...
+
+268
+00:15:33,338 --> 00:15:35,293
+Then they're after me?
+
+269
+00:15:35,641 --> 00:15:38,375
+- What did I do?
+- David, please...
+
+270
+00:15:38,377 --> 00:15:39,709
+just answer the questions
+
+271
+00:15:39,711 --> 00:15:42,145
+if you want us both to get out of here.
+
+272
+00:15:43,982 --> 00:15:44,981
+Okay.
+
+273
+00:15:44,983 --> 00:15:45,948
+Is it true that one day
+
+274
+00:15:45,950 --> 00:15:47,663
+Marcy's cognitive abilities changed,
+
+275
+00:15:47,665 --> 00:15:49,419
+and for all intents and purposes,
+
+276
+00:15:49,421 --> 00:15:51,767
+she was an entirely different person?
+
+277
+00:15:53,325 --> 00:15:54,353
+Yeah.
+
+278
+00:15:55,126 --> 00:15:56,981
+Didn't that seem odd to you?
+
+279
+00:15:57,261 --> 00:15:58,127
+Of course it did.
+
+280
+00:15:58,129 --> 00:15:59,261
+I thought a miracle had happened,
+
+281
+00:15:59,263 --> 00:16:00,693
+are you kidding me?
+
+282
+00:16:01,132 --> 00:16:03,362
+How did you justify that change?
+
+283
+00:16:06,824 --> 00:16:09,535
+I'm pretty sure I shouldn't
+be talking about this.
+
+284
+00:16:10,119 --> 00:16:12,241
+You have doctor-client privilege with me.
+
+285
+00:16:12,243 --> 00:16:13,175
+You're not my doctor.
+
+286
+00:16:13,177 --> 00:16:14,142
+David...
+
+287
+00:16:14,144 --> 00:16:15,311
+She's a doctor.
+
+288
+00:16:15,313 --> 00:16:16,144
+Marcy Warton?
+
+289
+00:16:16,146 --> 00:16:17,746
+With the FBI, undercover.
+
+290
+00:16:17,748 --> 00:16:19,181
+She goes on secret missions...
+
+291
+00:16:20,713 --> 00:16:21,750
+I've said too much.
+
+292
+00:16:21,752 --> 00:16:23,485
+And you believed her?
+
+293
+00:16:23,487 --> 00:16:24,620
+Yeah, I met her boss.
+
+294
+00:16:24,622 --> 00:16:25,487
+Grant MacLaren.
+
+295
+00:16:25,489 --> 00:16:27,456
+He's real. I've been to his office.
+
+296
+00:16:27,458 --> 00:16:28,489
+God, he's gonna kill me.
+
+297
+00:16:28,491 --> 00:16:29,791
+I cracked in, like, five seconds.
+
+298
+00:16:29,793 --> 00:16:30,759
+David...
+
+299
+00:16:30,761 --> 00:16:34,262
+Marcy Warton is not an FBI agent.
+
+300
+00:16:34,602 --> 00:16:36,354
+She's a traveler
+
+301
+00:16:37,034 --> 00:16:38,800
+from the future.
+
+302
+00:16:39,803 --> 00:16:40,910
+A who?
+
+303
+00:16:40,912 --> 00:16:42,704
+A time traveler.
+
+304
+00:16:46,486 --> 00:16:47,975
+That is the stupidest thing I've ever...
+
+305
+00:16:47,977 --> 00:16:49,210
+She was supposed to be killed
+
+306
+00:16:49,212 --> 00:16:50,311
+by a group of men
+
+307
+00:16:50,313 --> 00:16:52,280
+outside the library where she worked.
+
+308
+00:16:52,282 --> 00:16:54,282
+Seconds before her death,
+
+309
+00:16:54,284 --> 00:16:57,017
+a consciousness was sent from the future,
+
+310
+00:16:57,019 --> 00:16:59,320
+supplanting Marcy's own,
+
+311
+00:16:59,322 --> 00:17:02,046
+and that new traveler
+survived the attack.
+
+312
+00:17:02,625 --> 00:17:03,758
+And...
+
+313
+00:17:03,760 --> 00:17:05,159
+just a few months ago,
+
+314
+00:17:05,161 --> 00:17:08,495
+that consciousness
+was replaced yet again.
+
+315
+00:17:08,497 --> 00:17:11,132
+She called it memory loss,
+
+316
+00:17:11,134 --> 00:17:13,000
+but in fact, she was...
+
+317
+00:17:13,002 --> 00:17:15,101
+overwritten.
+
+318
+00:17:17,584 --> 00:17:19,306
+Lady...
+
+319
+00:17:19,855 --> 00:17:21,908
+what the hell have you been smoking?
+
+320
+00:17:47,848 --> 00:17:49,335
+Hi.
+
+321
+00:17:50,748 --> 00:17:52,738
+I'm sorta glad I'm not alone here.
+
+322
+00:17:58,112 --> 00:17:59,512
+I'm David.
+
+323
+00:18:01,382 --> 00:18:02,715
+Kathryn.
+
+324
+00:18:02,717 --> 00:18:04,550
+Kathryn...
+
+325
+00:18:06,156 --> 00:18:07,327
+Are they all right?
+
+326
+00:18:08,336 --> 00:18:10,588
+Still on whatever drug they gave me.
+
+327
+00:18:12,960 --> 00:18:14,952
+You don't know any of them, do you?
+
+328
+00:18:15,953 --> 00:18:18,563
+Uh... okay, wow. Yes.
+
+329
+00:18:18,565 --> 00:18:19,431
+You do?
+
+330
+00:18:19,433 --> 00:18:20,583
+Ray?
+
+331
+00:18:21,601 --> 00:18:23,294
+Ray, wake up!
+
+332
+00:18:24,137 --> 00:18:26,631
+He got me out of a legal jam recently.
+
+333
+00:18:27,106 --> 00:18:28,206
+It was weird...
+
+334
+00:18:28,208 --> 00:18:29,467
+Ray!
+
+335
+00:18:29,976 --> 00:18:30,942
+Ray! Wake up...
+
+336
+00:18:30,944 --> 00:18:32,377
+I already tried yelling.
+
+337
+00:18:36,717 --> 00:18:37,849
+Oh, for God's sakes.
+
+338
+00:18:37,851 --> 00:18:38,717
+What?
+
+339
+00:18:38,719 --> 00:18:40,818
+I know him too.
+
+340
+00:18:40,820 --> 00:18:42,119
+He's a cop.
+
+341
+00:18:42,121 --> 00:18:43,754
+He interviewed me once about Marcy.
+
+342
+00:18:43,756 --> 00:18:45,274
+Who's Marcy?
+
+343
+00:18:47,276 --> 00:18:48,425
+Apparently
+
+344
+00:18:48,427 --> 00:18:50,661
+a time traveler from the future.
+
+345
+00:18:50,663 --> 00:18:52,930
+She said my husband was, too.
+
+346
+00:18:52,932 --> 00:18:54,631
+- Dr. Perrow?
+- Yeah.
+
+347
+00:18:54,633 --> 00:18:55,967
+Yeah, but you don't a actually believe...
+
+348
+00:18:55,969 --> 00:18:56,834
+Of course not.
+
+349
+00:18:56,836 --> 00:18:57,968
+Of course not.
+
+350
+00:18:57,970 --> 00:19:01,004
+Oh, shit...
+
+351
+00:19:01,006 --> 00:19:02,740
+It's all right, you're not alone.
+
+352
+00:19:02,742 --> 00:19:04,775
+Where's my son? Where's Jeffrey?
+
+353
+00:19:04,777 --> 00:19:05,942
+He's just a baby...
+
+354
+00:19:05,944 --> 00:19:08,178
+He's not with us, I'm sorry.
+
+355
+00:19:09,515 --> 00:19:11,114
+You're MacLaren's wife.
+
+356
+00:19:11,116 --> 00:19:12,182
+Agent MacLaren?
+
+357
+00:19:12,184 --> 00:19:13,649
+You know who I am?
+
+358
+00:19:13,651 --> 00:19:14,918
+Yeah, I came to your house and told you
+
+359
+00:19:14,920 --> 00:19:16,019
+that your husband was screwing around
+
+360
+00:19:16,021 --> 00:19:17,230
+with my girl, Carly.
+
+361
+00:19:17,232 --> 00:19:19,122
+- Carly?
+- What?
+
+362
+00:19:19,124 --> 00:19:20,656
+Yeah, you don't remember?
+
+363
+00:19:20,658 --> 00:19:21,524
+No, and I think that's something
+
+364
+00:19:21,526 --> 00:19:22,458
+I would remember.
+
+365
+00:19:22,460 --> 00:19:24,027
+So then why would he bring us here?
+
+366
+00:19:24,029 --> 00:19:26,329
+What? Why would Grant do this?
+
+367
+00:19:26,331 --> 00:19:28,664
+She's right, I don't think
+this is an FBI thing.
+
+368
+00:19:28,666 --> 00:19:29,766
+How do you know
+
+369
+00:19:29,768 --> 00:19:31,501
+my husband works with the FBI?
+
+370
+00:19:31,503 --> 00:19:32,981
+He's Marcy's boss, isn't he?
+
+371
+00:19:32,983 --> 00:19:34,383
+David Mailer.
+
+372
+00:19:34,843 --> 00:19:35,976
+You're the social worker creep
+
+373
+00:19:35,978 --> 00:19:38,374
+that was screwin' around with
+the retarded girl, Marcy.
+
+374
+00:19:38,376 --> 00:19:39,341
+That's a hateful word.
+
+375
+00:19:39,343 --> 00:19:41,343
+Okay, wait, who the fuck is Marcy?
+
+376
+00:19:41,345 --> 00:19:42,612
+His client!
+
+377
+00:19:42,614 --> 00:19:44,179
+One minute she's mentally disabled,
+
+378
+00:19:44,181 --> 00:19:45,114
+the next minute,
+
+379
+00:19:45,116 --> 00:19:46,015
+she's whoopin' half a dozen boys
+
+380
+00:19:46,017 --> 00:19:47,016
+outside the library...
+
+381
+00:19:47,018 --> 00:19:47,950
+Yeah, she was under cover!
+
+382
+00:19:47,952 --> 00:19:49,296
+All right!
+
+383
+00:19:49,653 --> 00:19:50,719
+Enough of this shit!
+
+384
+00:19:50,721 --> 00:19:51,853
+We talk,
+
+385
+00:19:51,855 --> 00:19:53,688
+or we get out of here.
+
+386
+00:19:55,893 --> 00:19:57,726
+Hey!
+
+387
+00:19:57,728 --> 00:19:59,395
+Whoever the hell you think you are,
+
+388
+00:19:59,397 --> 00:20:01,530
+you just kidnapped
+a Metro police officer!
+
+389
+00:20:01,532 --> 00:20:03,565
+That's a class-A felony,
+
+390
+00:20:03,567 --> 00:20:06,063
+and I'm gonna put your ass away!
+You hear me?
+
+391
+00:20:09,807 --> 00:20:11,907
+Do you have be so loud?
+
+392
+00:20:17,908 --> 00:20:19,314
+Who the hell are you?
+
+393
+00:20:19,910 --> 00:20:22,413
+Hello. I'm... I'm David.
+
+394
+00:20:22,885 --> 00:20:24,415
+I'm a friend of Marcy's.
+
+395
+00:20:24,626 --> 00:20:25,719
+This is Kathryn.
+
+396
+00:20:25,721 --> 00:20:27,322
+She's married to Agent MacLaren,
+
+397
+00:20:27,324 --> 00:20:28,656
+who's Marcy's boss.
+
+398
+00:20:28,658 --> 00:20:29,757
+This is Ray.
+
+399
+00:20:30,004 --> 00:20:31,492
+He's still unconscious.
+
+400
+00:20:31,494 --> 00:20:35,996
+The unhappy man is Officer Conniker,
+
+401
+00:20:35,998 --> 00:20:37,832
+who I'm guessing is
+in a relationship with Carly,
+
+402
+00:20:37,834 --> 00:20:39,366
+who's also a friend of Marcy,
+
+403
+00:20:39,368 --> 00:20:42,035
+all of whom may or may not
+be time travelers.
+
+404
+00:20:42,037 --> 00:20:43,737
+And you are?
+
+405
+00:20:43,739 --> 00:20:46,974
+I'm a... high school guidance counselor.
+
+406
+00:20:46,976 --> 00:20:48,909
+Oh, okay. That makes perfect sense.
+
+407
+00:20:53,748 --> 00:20:55,282
+Wait, no. Don't you touch me.
+
+408
+00:20:55,284 --> 00:20:56,749
+No. No.
+
+409
+00:20:56,751 --> 00:20:57,951
+No...
+
+410
+00:20:57,953 --> 00:20:59,386
+Where are you taking me?
+
+411
+00:20:59,388 --> 00:21:00,854
+Let me go!
+
+412
+00:21:00,856 --> 00:21:01,955
+Let me go!
+
+413
+00:21:01,957 --> 00:21:03,423
+The lady asked you to let her go...
+
+414
+00:21:04,893 --> 00:21:06,259
+Back off! No!
+
+415
+00:21:08,130 --> 00:21:09,261
+Let me go!
+
+416
+00:21:11,399 --> 00:21:13,547
+Who's he again?
+
+417
+00:21:14,402 --> 00:21:16,469
+He's my lawyer.
+
+418
+00:21:32,487 --> 00:21:33,852
+Vincent's sending us something.
+
+419
+00:21:35,556 --> 00:21:37,071
+Boss!
+
+420
+00:21:48,569 --> 00:21:53,271
+Grant, in order for me
+to be released unharmed,
+
+421
+00:21:53,273 --> 00:21:55,574
+you must confess to...
+
+422
+00:21:55,576 --> 00:21:58,592
+being a Traveler on video.
+
+423
+00:22:00,928 --> 00:22:03,948
+You have one hour to send it to this IP,
+
+424
+00:22:04,849 --> 00:22:07,152
+or they'll kill me.
+
+425
+00:22:07,637 --> 00:22:12,523
+_
+
+426
+00:22:19,947 --> 00:22:21,643
+Shit, not again.
+
+427
+00:22:26,704 --> 00:22:28,150
+Ray?
+
+428
+00:22:30,073 --> 00:22:31,106
+David.
+
+429
+00:22:31,108 --> 00:22:32,239
+Yeah.
+
+430
+00:22:32,647 --> 00:22:34,275
+We've been kidnapped.
+
+431
+00:22:34,277 --> 00:22:36,672
+I know that sounds crazy, but...
+
+432
+00:22:37,314 --> 00:22:39,508
+How much do you owe Vargese?
+
+433
+00:22:41,743 --> 00:22:42,841
+Vargese, anyone?
+
+434
+00:22:42,866 --> 00:22:44,500
+We're not sure why we're here.
+
+435
+00:22:44,865 --> 00:22:46,291
+Does this have anything to do
+
+436
+00:22:46,293 --> 00:22:47,426
+with the guy in your apartment
+
+437
+00:22:47,428 --> 00:22:49,294
+who, uh...
+
+438
+00:22:49,296 --> 00:22:50,461
+What?
+
+439
+00:22:50,463 --> 00:22:52,496
+Oh... maybe?
+
+440
+00:22:55,302 --> 00:22:57,601
+What's with Mr. Big and Tall here?
+
+441
+00:22:57,603 --> 00:22:58,937
+Hey, wait...
+
+442
+00:22:58,939 --> 00:23:01,822
+Come on, take it easy, what the...
+
+443
+00:23:02,294 --> 00:23:03,748
+Jesus.
+
+444
+00:23:04,711 --> 00:23:05,910
+Boss, I have to say this...
+
+445
+00:23:05,912 --> 00:23:06,944
+If we do this,
+
+446
+00:23:06,946 --> 00:23:08,693
+it goes against everything
+we trained for.
+
+447
+00:23:08,718 --> 00:23:10,050
+I know.
+
+448
+00:23:12,697 --> 00:23:13,963
+I'm sorry.
+
+449
+00:23:14,886 --> 00:23:16,586
+I'm not going to let my wife die.
+
+450
+00:23:16,588 --> 00:23:18,119
+I feel the same way about David.
+
+451
+00:23:18,144 --> 00:23:19,743
+Look, listen, listen!
+
+452
+00:23:19,991 --> 00:23:23,059
+I want nothing more
+than to hold my son right now,
+
+453
+00:23:23,061 --> 00:23:24,494
+but the mission comes first.
+
+454
+00:23:24,496 --> 00:23:26,295
+If you sit down at that computer
+
+455
+00:23:26,297 --> 00:23:27,663
+with the intention of confessing,
+
+456
+00:23:27,665 --> 00:23:28,630
+you will be overwritten.
+
+457
+00:23:28,632 --> 00:23:29,999
+I think I know how we can do this
+
+458
+00:23:30,001 --> 00:23:31,226
+and still maintain Protocol 1.
+
+459
+00:23:34,239 --> 00:23:36,772
+I got my hands on
+an advanced rootkit virus
+
+460
+00:23:36,774 --> 00:23:38,875
+that I can plant in the code
+of the video file.
+
+461
+00:23:38,877 --> 00:23:39,976
+Is it traceable?
+
+462
+00:23:39,978 --> 00:23:40,943
+Four months ago,
+
+463
+00:23:40,945 --> 00:23:42,411
+it compromised the Relicus Maxicloud
+
+464
+00:23:42,413 --> 00:23:43,779
+in Austria for 47 minutes,
+
+465
+00:23:43,781 --> 00:23:44,713
+and they still don't know who did it.
+
+466
+00:23:44,715 --> 00:23:45,748
+Do you?
+
+467
+00:23:45,750 --> 00:23:46,982
+The Faction.
+
+468
+00:23:47,576 --> 00:23:49,317
+I can track the video
+on the back channels
+
+469
+00:23:49,319 --> 00:23:50,185
+and find his location.
+
+470
+00:23:50,187 --> 00:23:51,487
+What if it spreads?
+
+471
+00:23:51,489 --> 00:23:52,621
+I'll know where it goes,
+
+472
+00:23:52,623 --> 00:23:54,155
+When the time comes, we can shut it down.
+
+473
+00:23:54,157 --> 00:23:55,257
+Yeah, if the Director
+
+474
+00:23:55,259 --> 00:23:56,792
+lets us get that far.
+
+475
+00:23:57,169 --> 00:23:59,296
+I'm still not struck by lightning.
+
+476
+00:24:02,366 --> 00:24:03,550
+Do it.
+
+477
+00:24:07,638 --> 00:24:09,337
+Ready when you are.
+
+478
+00:24:23,953 --> 00:24:25,620
+Seven months ago,
+
+479
+00:24:25,789 --> 00:24:28,756
+my consciousness was sent
+from the distant future
+
+480
+00:24:28,758 --> 00:24:31,225
+into the body of
+Special Agent Grant MacLaren...
+
+481
+00:25:02,223 --> 00:25:05,858
+Cooling systems at minus 270 degrees.
+
+482
+00:25:06,280 --> 00:25:09,837
+Superconductor efficiency, 99.8%.
+
+483
+00:25:14,502 --> 00:25:15,501
+Simon!
+
+484
+00:25:15,503 --> 00:25:16,735
+It's overheating.
+
+485
+00:25:16,737 --> 00:25:17,570
+Shut it down!
+
+486
+00:25:17,572 --> 00:25:19,272
+Simon!
+
+487
+00:25:30,932 --> 00:25:32,551
+It was supposed to work!
+
+488
+00:25:32,553 --> 00:25:34,119
+Can you fix it?
+
+489
+00:25:34,121 --> 00:25:35,788
+I told you, the device requires...
+
+490
+00:25:35,790 --> 00:25:37,122
+Simon!
+
+491
+00:25:37,124 --> 00:25:38,991
+Can you fix it?
+
+492
+00:25:40,327 --> 00:25:42,232
+This was all for you.
+
+493
+00:25:42,696 --> 00:25:43,984
+All for you.
+
+494
+00:25:45,799 --> 00:25:47,362
+I'm his only friend?
+
+495
+00:25:48,621 --> 00:25:50,699
+Man, that is tragic.
+
+496
+00:25:51,338 --> 00:25:53,305
+The guy travels through time,
+
+497
+00:25:53,330 --> 00:25:54,896
+becomes a junkie,
+
+498
+00:25:55,108 --> 00:25:57,876
+and his only friend is a lawyer
+with a gambling addiction
+
+499
+00:25:57,878 --> 00:25:59,043
+who uses him?
+
+500
+00:25:59,045 --> 00:26:01,412
+I'd like to, uh, keep us on track.
+
+501
+00:26:15,367 --> 00:26:17,059
+How are things at home?
+
+502
+00:26:28,862 --> 00:26:30,440
+Where's my son?
+
+503
+00:26:30,906 --> 00:26:32,475
+Jeffrey's okay.
+
+504
+00:26:32,477 --> 00:26:33,343
+For now.
+
+505
+00:26:33,345 --> 00:26:34,645
+What does that mean?
+
+506
+00:26:34,647 --> 00:26:36,246
+It means if you and I cooperate,
+
+507
+00:26:36,248 --> 00:26:37,981
+then you'll see your son,
+
+508
+00:26:37,983 --> 00:26:39,182
+and I'll see my daughter,
+
+509
+00:26:39,184 --> 00:26:41,151
+but that entirely depends on you.
+
+510
+00:26:42,688 --> 00:26:44,320
+There are some things about Carly
+
+511
+00:26:44,322 --> 00:26:45,838
+you need to know.
+
+512
+00:26:46,797 --> 00:26:47,957
+...In truth,
+
+513
+00:26:47,959 --> 00:26:49,792
+I am Traveler 3468...
+
+514
+00:26:49,794 --> 00:26:50,860
+Oh, Jesus Christ, Mac.
+
+515
+00:26:50,862 --> 00:26:51,794
+We've got it under control.
+
+516
+00:26:51,796 --> 00:26:52,662
+Clearly you don't.
+
+517
+00:26:52,664 --> 00:26:53,796
+My teammate at the NSA flagged this
+
+518
+00:26:53,798 --> 00:26:56,766
+during her routine scan
+for Traveler activity.
+
+519
+00:26:56,768 --> 00:26:57,833
+If any other agent had found...
+
+520
+00:26:57,835 --> 00:26:59,169
+Yeah, well, they didn't,
+
+521
+00:26:59,171 --> 00:27:00,770
+and we've taken extra precautions
+
+522
+00:27:00,772 --> 00:27:02,038
+with Philip's virus.
+
+523
+00:27:02,040 --> 00:27:04,306
+Now, once we get to Vincent,
+we can corrupt the video.
+
+524
+00:27:04,308 --> 00:27:05,841
+I just need time to flush him out.
+
+525
+00:27:05,843 --> 00:27:06,709
+The intelligence agencies
+
+526
+00:27:06,711 --> 00:27:08,044
+already have a target on our backs.
+
+527
+00:27:08,046 --> 00:27:11,313
+Well, then, let's work together
+and get ahead of it.
+
+528
+00:27:12,149 --> 00:27:14,650
+Those with my specialty
+are chosen as infants
+
+529
+00:27:14,652 --> 00:27:16,251
+in order to develop their minds
+
+530
+00:27:16,253 --> 00:27:18,996
+to specifically serve
+the Traveler program.
+
+531
+00:27:20,558 --> 00:27:23,417
+Some days I felt like an experiment,
+
+532
+00:27:24,161 --> 00:27:26,587
+other days like a super-human.
+
+533
+00:27:27,731 --> 00:27:29,590
+Today I'm...
+
+534
+00:27:34,638 --> 00:27:37,973
+The Director has kept watch
+over my entire life,
+
+535
+00:27:38,709 --> 00:27:41,309
+knowing the outcome of every decision,
+
+536
+00:27:41,311 --> 00:27:43,979
+crafting my path forward,
+
+537
+00:27:45,608 --> 00:27:47,107
+but here,
+
+538
+00:27:49,191 --> 00:27:51,158
+I see people every day
+
+539
+00:27:51,183 --> 00:27:53,183
+who still believe in free will.
+
+540
+00:27:56,159 --> 00:27:57,891
+They don't know any better.
+
+541
+00:28:06,603 --> 00:28:09,003
+I've taken down bigger guys than you.
+
+542
+00:28:11,553 --> 00:28:14,507
+Do any of you think
+this could actually be true?
+
+543
+00:28:14,509 --> 00:28:15,636
+What?
+
+544
+00:28:17,479 --> 00:28:19,512
+A few months ago,
+
+545
+00:28:19,537 --> 00:28:21,537
+I definitely noticed changes in Grant.
+
+546
+00:28:21,562 --> 00:28:24,963
+It was truly like
+he was a different person.
+
+547
+00:28:25,120 --> 00:28:26,620
+What they're saying would explain...
+
+548
+00:28:26,622 --> 00:28:27,621
+Oh, please.
+
+549
+00:28:27,623 --> 00:28:29,856
+Like time travel is actually possible?
+
+550
+00:28:29,858 --> 00:28:31,625
+Okay, maybe you could send information
+
+551
+00:28:31,627 --> 00:28:33,393
+in the form of some coherent energy
+
+552
+00:28:33,395 --> 00:28:34,561
+across space-time,
+
+553
+00:28:34,563 --> 00:28:36,095
+but to calculate an exact position
+
+554
+00:28:36,097 --> 00:28:38,698
+would require an almost
+impossible level of accuracy,
+
+555
+00:28:38,700 --> 00:28:39,799
+not to mention
+
+556
+00:28:39,801 --> 00:28:41,801
+nearly a billion zettaflops
+of processing power,
+
+557
+00:28:41,803 --> 00:28:43,870
+and then to unpack it somehow,
+
+558
+00:28:43,872 --> 00:28:45,204
+without entropy,
+
+559
+00:28:45,206 --> 00:28:48,507
+in a... biological...
+
+560
+00:28:50,812 --> 00:28:52,211
+What do you do again?
+
+561
+00:28:52,213 --> 00:28:53,946
+Guidance counselor.
+
+562
+00:29:10,097 --> 00:29:13,698
+He knows you tampered
+with MacLaren's recording.
+
+563
+00:29:16,269 --> 00:29:20,471
+Now each and every one of you
+must record...
+
+564
+00:29:20,473 --> 00:29:22,974
+your own confessions,
+
+565
+00:29:22,976 --> 00:29:25,811
+or we will all be killed.
+
+566
+00:29:28,548 --> 00:29:30,615
+Marcy, I just want to go home.
+
+567
+00:29:34,287 --> 00:29:36,321
+I just wanna go home.
+
+568
+00:29:38,436 --> 00:29:40,603
+All right, look, look, look, listen,
+
+569
+00:29:41,138 --> 00:29:42,505
+we know there's only one way in
+
+570
+00:29:42,507 --> 00:29:44,017
+and one way out, right?
+
+571
+00:29:44,019 --> 00:29:46,509
+Now, there's two of them, two of us...
+
+572
+00:29:46,511 --> 00:29:48,077
+Let's take 'em.
+
+573
+00:29:48,079 --> 00:29:50,672
+Oh, I can't wait to see this.
+
+574
+00:29:50,699 --> 00:29:52,233
+Yeah. Yeah, okay.
+
+575
+00:29:52,235 --> 00:29:54,100
+Next time, we jump 'em.
+
+576
+00:29:54,102 --> 00:29:55,268
+You take the tall one.
+
+577
+00:29:57,239 --> 00:29:58,447
+Which one is the tall one?
+
+578
+00:30:00,776 --> 00:30:01,641
+Oh, my god.
+
+579
+00:30:01,643 --> 00:30:03,576
+David... It's okay, I got you.
+
+580
+00:30:03,578 --> 00:30:05,912
+I can't see out of my right eye.
+
+581
+00:30:05,914 --> 00:30:07,346
+Is it okay?
+
+582
+00:30:07,348 --> 00:30:09,515
+It's just swollen shut.
+
+583
+00:30:09,517 --> 00:30:10,416
+"Just."
+
+584
+00:30:10,418 --> 00:30:12,285
+Try that shit with me.
+
+585
+00:30:12,287 --> 00:30:13,786
+Wait, wait, wait.
+
+586
+00:30:13,788 --> 00:30:15,120
+Don't.
+
+587
+00:30:17,292 --> 00:30:18,758
+I get it. I'm next.
+
+588
+00:30:18,760 --> 00:30:20,092
+Let's go.
+
+589
+00:30:27,634 --> 00:30:30,187
+My purpose is to save lives,
+
+590
+00:30:30,972 --> 00:30:33,739
+whether that's a teammate in jeopardy,
+
+591
+00:30:33,764 --> 00:30:35,497
+or someone that's part of a mission
+
+592
+00:30:35,522 --> 00:30:36,985
+ordered by the Director...
+
+593
+00:30:38,545 --> 00:30:40,045
+but I can't help but think
+
+594
+00:30:40,047 --> 00:30:42,047
+that I've put one person's life
+
+595
+00:30:42,049 --> 00:30:44,326
+in more danger than they deserve.
+
+596
+00:30:45,952 --> 00:30:47,078
+David...
+
+597
+00:30:47,781 --> 00:30:49,415
+you've suffered because of me,
+
+598
+00:30:49,440 --> 00:30:52,834
+and there's just...
+there's no excuse for that.
+
+599
+00:30:53,993 --> 00:30:55,593
+I cared enough to leave once.
+
+600
+00:30:55,618 --> 00:30:58,586
+I should have just stayed away.
+
+601
+00:31:04,037 --> 00:31:05,469
+I've lowered the temperature in the room.
+
+602
+00:31:05,471 --> 00:31:06,904
+I know it's cold.
+
+603
+00:31:06,906 --> 00:31:08,580
+It's bracing, yes.
+
+604
+00:31:08,582 --> 00:31:09,798
+Is it ready?
+
+605
+00:31:09,800 --> 00:31:10,975
+Almost.
+
+606
+00:31:10,977 --> 00:31:12,676
+It's almost done.
+
+607
+00:31:12,678 --> 00:31:13,744
+For 2,000 years,
+
+608
+00:31:13,746 --> 00:31:16,714
+mankind believed that God
+was created in his image,
+
+609
+00:31:16,716 --> 00:31:19,717
+guiding our lives, hearing our prayers...
+
+610
+00:31:19,719 --> 00:31:21,251
+Could you hand me the screwdriver?
+
+611
+00:31:21,253 --> 00:31:23,186
+But when those prayers weren't answered,
+
+612
+00:31:23,188 --> 00:31:26,301
+we just chalked it up to His divine will.
+
+613
+00:31:26,326 --> 00:31:29,996
+But then mankind created
+the power to build God,
+
+614
+00:31:30,363 --> 00:31:31,895
+a machine more powerful
+
+615
+00:31:31,897 --> 00:31:33,296
+than any human mind could ever be...
+
+616
+00:31:33,298 --> 00:31:35,031
+It's just, uh, on the workbench...
+
+617
+00:31:35,033 --> 00:31:36,066
+The fate of our existence
+
+618
+00:31:36,068 --> 00:31:37,667
+just handed to an AI
+
+619
+00:31:37,669 --> 00:31:39,435
+with the ability to monitor
+
+620
+00:31:39,437 --> 00:31:41,704
+each and every shifting timeline,
+
+621
+00:31:41,706 --> 00:31:44,241
+while we blindly obey its orders
+
+622
+00:31:44,243 --> 00:31:47,411
+with the belief that salvation will come.
+
+623
+00:31:47,413 --> 00:31:48,617
+It's the Phillips head...
+
+624
+00:31:48,619 --> 00:31:51,114
+The problem isn't the fact
+that we believed in God...
+
+625
+00:31:51,116 --> 00:31:52,790
+"It's that we didn't
+believe in ourselves."
+
+626
+00:31:52,792 --> 00:31:54,646
+Fine, I'll get it.
+
+627
+00:31:55,219 --> 00:31:57,520
+It's time to pull back the curtain
+
+628
+00:31:57,522 --> 00:31:58,855
+and take control of the present,
+
+629
+00:31:58,857 --> 00:32:01,257
+to fight for our future.
+
+630
+00:32:16,240 --> 00:32:18,640
+It's working.
+
+631
+00:32:20,912 --> 00:32:22,344
+Simon...
+
+632
+00:32:23,647 --> 00:32:25,760
+We can finally fix you.
+
+633
+00:32:31,087 --> 00:32:32,454
+A psychologist?
+
+634
+00:32:32,456 --> 00:32:33,555
+And you actually enjoy
+
+635
+00:32:33,557 --> 00:32:35,353
+talking to people for a living?
+
+636
+00:32:35,719 --> 00:32:37,647
+When I'm not under duress.
+
+637
+00:32:38,295 --> 00:32:41,067
+All right, let's get it over with, then.
+
+638
+00:32:42,399 --> 00:32:43,264
+When are you from?
+
+639
+00:32:43,266 --> 00:32:44,465
+When are you from?
+
+640
+00:32:46,469 --> 00:32:47,468
+What is your mission?
+
+641
+00:32:47,470 --> 00:32:48,636
+What is your mission?
+
+642
+00:32:51,975 --> 00:32:53,274
+What is your specialty?
+
+643
+00:32:53,276 --> 00:32:54,342
+What is your Sp...
+
+644
+00:32:54,344 --> 00:32:55,832
+All right, enough!
+
+645
+00:32:56,846 --> 00:33:01,248
+You can stop pretending, Traveler 0027.
+
+646
+00:33:02,336 --> 00:33:04,065
+Shit.
+
+647
+00:33:11,126 --> 00:33:13,026
+The videos have been
+disseminated to servers
+
+648
+00:33:13,028 --> 00:33:15,095
+in nearly every major city.
+
+649
+00:33:15,097 --> 00:33:16,930
+Any luck over there?
+
+650
+00:33:16,932 --> 00:33:18,631
+Locked out of everything.
+
+651
+00:33:18,633 --> 00:33:20,800
+You said you could control the virus.
+
+652
+00:33:20,802 --> 00:33:22,269
+Yeah, well, he's pretty good, too.
+
+653
+00:33:22,271 --> 00:33:23,770
+What are you saying?
+
+654
+00:33:23,772 --> 00:33:26,340
+What I'm saying is that
+I can't corrupt the video files
+
+655
+00:33:26,342 --> 00:33:28,031
+that are already out there.
+
+656
+00:33:29,199 --> 00:33:31,845
+The world is about
+to find out who we are.
+
+657
+00:33:31,847 --> 00:33:33,709
+Why isn't the Director stepping in?
+
+658
+00:33:33,711 --> 00:33:36,583
+We must eventually
+find a way to solve this.
+
+659
+00:33:36,585 --> 00:33:39,218
+If not, it had its chance
+to overwrite any one of us
+
+660
+00:33:39,220 --> 00:33:40,553
+when we recorded our confession.
+
+661
+00:33:42,156 --> 00:33:43,880
+He's sending us a message.
+
+662
+00:33:44,392 --> 00:33:46,633
+UDIDs, MAC addresses,
+
+663
+00:33:47,168 --> 00:33:49,135
+possible coordinates.
+
+664
+00:33:49,464 --> 00:33:51,197
+He's making us work for it.
+
+665
+00:33:51,199 --> 00:33:52,898
+He's a dead man.
+
+666
+00:33:52,900 --> 00:33:54,200
+He's a psychotic recluse!
+
+667
+00:33:54,202 --> 00:33:57,169
+You're asking me
+if time travel is possible.
+
+668
+00:33:57,171 --> 00:33:58,337
+You say that out loud again,
+
+669
+00:33:58,339 --> 00:33:59,905
+and slowly.
+
+670
+00:34:02,674 --> 00:34:04,307
+You've seen it too.
+
+671
+00:34:04,309 --> 00:34:05,841
+We couldn't get ahead of it.
+
+672
+00:34:05,843 --> 00:34:07,009
+He sent it to all the major news outlets,
+
+673
+00:34:07,011 --> 00:34:08,010
+intelligence agencies...
+
+674
+00:34:08,012 --> 00:34:09,111
+I have to believe
+
+675
+00:34:09,113 --> 00:34:10,479
+that 21st-century skepticism
+
+676
+00:34:10,481 --> 00:34:12,014
+is alive and well.
+
+677
+00:34:12,016 --> 00:34:13,115
+Yeah, for the New York Times, sure,
+
+678
+00:34:13,117 --> 00:34:14,717
+but this isn't going to be something
+
+679
+00:34:14,719 --> 00:34:16,786
+that goes away with the news cycle.
+
+680
+00:34:16,788 --> 00:34:18,854
+The information he has
+fills in the pieces
+
+681
+00:34:18,856 --> 00:34:20,022
+on dozens of Traveler missions
+
+682
+00:34:20,024 --> 00:34:21,423
+the CIA could never explain.
+
+683
+00:34:21,425 --> 00:34:22,657
+It's only a matter of time
+
+684
+00:34:22,659 --> 00:34:23,658
+before they put it all together...
+
+685
+00:34:23,660 --> 00:34:25,627
+No, the Director
+will never let that happen.
+
+686
+00:34:25,629 --> 00:34:27,715
+Yeah, well, here we are.
+
+687
+00:34:28,466 --> 00:34:29,832
+What about your wife?
+
+688
+00:34:29,834 --> 00:34:32,134
+Boss, I think I know where they are.
+
+689
+00:34:32,136 --> 00:34:34,869
+Sending you coordinates.
+
+690
+00:34:40,043 --> 00:34:41,509
+This is the same...
+
+691
+00:34:42,546 --> 00:34:43,678
+What the hell?
+
+692
+00:35:17,900 --> 00:35:20,150
+If you have any questions
+about what you've just seen,
+
+693
+00:35:20,151 --> 00:35:22,151
+feel free to ask Grace.
+
+694
+00:35:22,510 --> 00:35:23,830
+She's one of them.
+
+695
+00:36:11,874 --> 00:36:13,673
+Ava? Sweetie?
+
+696
+00:36:13,675 --> 00:36:14,674
+Mom!
+
+697
+00:36:14,676 --> 00:36:16,743
+The man said you're coming home.
+
+698
+00:36:16,745 --> 00:36:18,444
+I'll be home soon.
+
+699
+00:36:19,077 --> 00:36:20,380
+I love you.
+
+700
+00:36:20,382 --> 00:36:22,081
+I love you too.
+
+701
+00:36:36,719 --> 00:36:38,430
+I wanted to say goodbye.
+
+702
+00:36:38,432 --> 00:36:40,132
+I'm scared.
+
+703
+00:36:40,134 --> 00:36:41,533
+Don't be.
+
+704
+00:36:41,535 --> 00:36:43,735
+You did it, Simon.
+
+705
+00:36:43,737 --> 00:36:45,437
+The device works perfectly.
+
+706
+00:36:49,315 --> 00:36:51,108
+Will you stay with me?
+
+707
+00:36:52,779 --> 00:36:54,979
+If that's what you want.
+
+708
+00:36:56,917 --> 00:36:58,454
+Thank you, Vincent.
+
+709
+00:36:59,794 --> 00:37:01,786
+Thank you.
+
+710
+00:37:04,956 --> 00:37:07,083
+Thank you, Vincent.
+
+711
+00:37:07,460 --> 00:37:09,493
+I was part of the original test program
+
+712
+00:37:09,495 --> 00:37:11,929
+for consciousness transfer...
+
+713
+00:37:12,998 --> 00:37:15,066
+something we had to master
+
+714
+00:37:15,068 --> 00:37:19,387
+before we could even dream
+of traveling back through time,
+
+715
+00:37:19,872 --> 00:37:21,405
+and I lived in many bodies,
+
+716
+00:37:21,407 --> 00:37:23,473
+which makes me one of
+the oldest living people
+
+717
+00:37:23,475 --> 00:37:25,226
+in human history...
+
+718
+00:37:29,347 --> 00:37:32,567
+I'll never forget what I saw
+the first time I woke up...
+
+719
+00:37:34,152 --> 00:37:35,945
+my former body
+
+720
+00:37:36,789 --> 00:37:39,449
+with glassy eyes staring back at me.
+
+721
+00:37:40,617 --> 00:37:42,658
+There was no one in there anymore.
+
+722
+00:37:42,952 --> 00:37:44,694
+Just a husk.
+
+723
+00:37:46,931 --> 00:37:49,250
+That image stays with me everywhere I go.
+
+724
+00:38:26,871 --> 00:38:29,237
+Traveler 5692.
+
+725
+00:38:29,239 --> 00:38:31,376
+Arrival successful.
+
+726
+00:38:44,021 --> 00:38:46,086
+All right,
+
+727
+00:38:46,088 --> 00:38:48,422
+there's two of them, two of us.
+
+728
+00:38:48,424 --> 00:38:50,520
+It's now or never.
+
+729
+00:38:52,428 --> 00:38:54,094
+Cancel the plan, cancel the plan!
+
+730
+00:38:54,096 --> 00:38:55,763
+What are you... Ow!
+
+731
+00:39:01,871 --> 00:39:03,704
+Where are you taking us?
+
+732
+00:39:03,706 --> 00:39:05,205
+Though this news is still breaking,
+
+733
+00:39:05,207 --> 00:39:07,541
+we can confirm that Vincent Ingram,
+
+734
+00:39:07,543 --> 00:39:09,843
+owner of one of the world's
+leading securities firms,
+
+735
+00:39:09,845 --> 00:39:12,445
+is responsible for bringing to light
+
+736
+00:39:12,447 --> 00:39:15,348
+what may be a new terrorist group
+
+737
+00:39:15,350 --> 00:39:18,918
+with cells positioned
+throughout the world...
+
+738
+00:39:36,691 --> 00:39:38,004
+Let me know when you have confirmation
+
+739
+00:39:38,006 --> 00:39:39,706
+that the device has been moved.
+
+740
+00:39:41,076 --> 00:39:43,609
+I need to speak with my son.
+
+741
+00:40:02,230 --> 00:40:03,662
+Hello, Taylor.
+
+742
+00:40:03,664 --> 00:40:05,331
+Remember me?
+
+743
+00:40:05,333 --> 00:40:06,599
+Hi.
+
+744
+00:40:07,305 --> 00:40:08,633
+Did your father explain to you
+
+745
+00:40:08,635 --> 00:40:10,468
+that you're going to be
+living with me for a while?
+
+746
+00:40:11,184 --> 00:40:13,471
+Yeah, but he didn't say why.
+
+747
+00:40:16,147 --> 00:40:17,976
+So that we can be free.
+
+748
+00:40:24,739 --> 00:40:26,984
+I'm Dr. Katrina Perrow,
+
+749
+00:40:26,986 --> 00:40:28,620
+and Vincent Ingram has been my patient
+
+750
+00:40:28,622 --> 00:40:30,442
+for the last four months.
+
+751
+00:40:30,444 --> 00:40:32,123
+For the purposes of this recording,
+
+752
+00:40:32,125 --> 00:40:35,326
+he has asked me to break
+doctor-patient confidentiality.
+
+753
+00:40:35,328 --> 00:40:38,095
+This is not a subject
+one can discuss openly,
+
+754
+00:40:38,097 --> 00:40:39,464
+because frankly,
+
+755
+00:40:39,466 --> 00:40:42,499
+it flies in the face
+of 21st-century science
+
+756
+00:40:42,501 --> 00:40:44,701
+and what we currently perceive
+to be possible,
+
+757
+00:40:44,703 --> 00:40:46,761
+but everything you've heard is true.
+
+758
+00:40:47,439 --> 00:40:49,764
+Travelers do exist.
+
+759
+00:40:50,723 --> 00:40:51,876
+What do you see?
+
+760
+00:40:53,345 --> 00:40:55,012
+Nothin' but God's country.
+
+761
+00:40:56,848 --> 00:40:58,848
+Only reason to take us
+out to the middle of nowhere
+
+762
+00:40:58,850 --> 00:40:59,783
+is to kill us.
+
+763
+00:41:00,719 --> 00:41:03,153
+Might as well say your prayers.
+
+764
+00:41:09,147 --> 00:41:11,327
+Do people still pray in the future?
+
+765
+00:41:20,338 --> 00:41:22,005
+They operate covertly
+
+766
+00:41:22,007 --> 00:41:23,907
+in cells made up of five members...
+
+767
+00:41:23,909 --> 00:41:25,341
+...each with a specialty.
+
+768
+00:41:25,343 --> 00:41:28,211
+Their missions are sent
+from an advanced AI
+
+769
+00:41:28,213 --> 00:41:32,265
+that continuously keeps watch
+over an ever-changing timeline.
+
+770
+00:41:33,318 --> 00:41:36,686
+They are spies, terrorists,
+
+771
+00:41:36,688 --> 00:41:37,920
+...and they will not stop
+
+772
+00:41:37,922 --> 00:41:40,889
+until their Director
+has achieved its primary goal,
+
+773
+00:41:40,891 --> 00:41:42,991
+the Grand Plan.
+
+774
+00:41:51,268 --> 00:41:54,169
+They are our wives, our husbands,
+
+775
+00:41:54,171 --> 00:41:56,638
+our sons, and our daughters.
+
+776
+00:41:57,320 --> 00:42:01,210
+They know our secrets,
+they know our future.
+
+777
+00:42:01,678 --> 00:42:04,946
+They gain our trust, our affection,
+
+778
+00:42:04,948 --> 00:42:06,716
+but it's all a lie.
+
+779
+00:42:07,417 --> 00:42:11,720
+We must do whatever we can to stop them.
+
+780
+00:43:04,072 --> 00:43:06,373
+Jesus, Kat, I was so afraid...
+
+781
+00:43:06,375 --> 00:43:07,774
+Who are you?
+
+782
+00:43:08,843 --> 00:43:09,909
+David!
+
+783
+00:43:09,911 --> 00:43:11,611
+David!
+
+784
+00:43:11,613 --> 00:43:12,779
+Don't... don't touch me.
+
+785
+00:43:12,781 --> 00:43:13,646
+We can get through this.
+
+786
+00:43:13,648 --> 00:43:15,247
+I don't think so.
+
+787
+00:43:17,357 --> 00:43:19,952
+Ray, I am so sorry that
+you had to go through that.
+
+788
+00:43:19,954 --> 00:43:21,086
+I gotta hand it to you, kid,
+
+789
+00:43:21,088 --> 00:43:23,856
+you were straight with me from the start.
+
+790
+00:43:23,858 --> 00:43:25,024
+But let's not pretend we're friends.
+
+791
+00:43:25,026 --> 00:43:25,958
+Please let me hold him.
+
+792
+00:43:25,960 --> 00:43:27,793
+Stay the hell away from my son.
+
+793
+00:43:27,795 --> 00:43:29,528
+You hear me?
+
+794
+00:43:31,933 --> 00:43:34,699
+Grace, are you okay?
+
+795
+00:43:34,701 --> 00:43:36,768
+I... I don't know.
+
+796
+00:43:44,845 --> 00:43:46,144
+I'm telling you, this whole thing...
+
+797
+00:43:46,146 --> 00:43:46,978
+No...
+
+798
+00:43:46,980 --> 00:43:48,513
+No, I can explain who did this.
+
+799
+00:43:48,515 --> 00:43:50,861
+I don't want to hear anything from you.
+
+800
+00:43:51,552 --> 00:43:53,452
+You killed my husband.
+
+801
+00:43:56,891 --> 00:44:04,904
+Synced & corrected by -robtor-
+www.addic7ed.com
+

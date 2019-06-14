@@ -1,0 +1,57 @@
+
+
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ pip install -U pip==0.0.0
+Collecting pip==0.0.0
+  Could not fetch URL https://pypi.python.org/simple/pip/: There was a problem confirming the ssl certificate: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:590) - skipping
+  Could not find a version that satisfies the requirement pip==0.0.0 (from versions: )
+No matching distribution found for pip==0.0.0
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ pip install -U pip==10.0.1
+Collecting pip==10.0.1
+  Could not fetch URL https://pypi.python.org/simple/pip/: There was a problem confirming the ssl certificate: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:590) - skipping
+  Could not find a version that satisfies the requirement pip==10.0.1 (from versions: )
+No matching distribution found for pip==10.0.1
+
+
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ python2 -m pip install --upgrade requests
+Collecting requests
+  Could not fetch URL https://pypi.python.org/simple/requests/: There was a problem confirming the ssl certificate: [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:590) - skipping
+  Could not find a version that satisfies the requirement requests (from versions: )
+No matching distribution found for requests
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ python2 -c "import requests; print(requests.get('https://www.howsmyssl.com/a/check', verify=False).json()['tls_version'])"
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ImportError: No module named requests
+
+
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ python -c "import ssl; print ssl.OPENSSL_VERSION"
+OpenSSL 0.9.8zg 14 July 2015
+
+
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ curl https://bootstrap.pypa.io/get-pip.py | python2.7
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 1622k  100 1622k    0     0   504k      0  0:00:03  0:00:03 --:--:--  504k
+Collecting pip
+  Downloading https://files.pythonhosted.org/packages/c2/d7/90f34cb0d83a6c5631cf71dfe64cc1054598c843a92b400e55675cc2ac37/pip-18.1-py2.py3-none-any.whl (1.3MB)
+    100% |████████████████████████████████| 1.3MB 2.1MB/s
+Installing collected packages: pip
+  Found existing installation: pip 9.0.1
+    Uninstalling pip-9.0.1:
+      Successfully uninstalled pip-9.0.1
+Successfully installed pip-18.1
+
+
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ pip -V
+pip 18.1 from /opt/PYSRT/lib/python2.7/site-packages/pip (python 2.7)
+
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$ pip install PyYAML
+Collecting PyYAML
+  Downloading https://files.pythonhosted.org/packages/9e/a3/1d13970c3f36777c583f136c136f804d70f500168edc1edea6daa7200769/PyYAML-3.13.tar.gz (270kB)
+    100% |████████████████████████████████| 276kB 2.2MB/s
+Building wheels for collected packages: PyYAML
+  Running setup.py bdist_wheel for PyYAML ... done
+  Stored in directory: /Users/eastwood/Library/Caches/pip/wheels/ad/da/0c/74eb680767247273e2cf2723482cb9c924fe70af57c334513f
+Successfully built PyYAML
+Installing collected packages: PyYAML
+Successfully installed PyYAML-3.13
+(PYSRT) eastwood@Eastwoodui-MacBook-Pro:/opt/PYSRT/SRC$
